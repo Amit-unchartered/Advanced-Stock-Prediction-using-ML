@@ -1,1 +1,1 @@
-# Advanced-Stock-Prediction-using-ML
+# AMAZON-Stocks-Prediction
